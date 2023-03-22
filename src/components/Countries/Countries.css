@@ -1,0 +1,10 @@
+.grid-class{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+@media screen and (max-width: 756px) {
+ .grid-class{
+    grid-template-columns: repeat(1, 1fr);
+ }   
+}
