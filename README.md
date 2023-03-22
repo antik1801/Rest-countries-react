@@ -8,7 +8,7 @@ https://github.com/antik1801/Rest-countries-react
 ```
 
 # Screen Shots:
-<img scr="./1.PNG" height="300px" width="100%">
+<img scr="./1.PNG" style="height:300px; width:100%">
 ### `npm start`
 
 Runs the app in the development mode.\
