@@ -1,11 +1,14 @@
-# Getting Started with Create React App
+# Live Link Netlify:
+```
+https://classy-bublanina-4ef369.netlify.app
+```
+# Github:
+```
+https://github.com/antik1801/Rest-countries-react
+```
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
+# Screen Shots:
+<img scr="./Capture.PNG" height="300px" width="100%">
 ### `npm start`
 
 Runs the app in the development mode.\
